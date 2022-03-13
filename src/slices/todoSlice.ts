@@ -1,5 +1,4 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
-import { stat } from 'fs';
 import { RootState } from '../../src/app/store';
 import { EditTask, Tag } from '../types/types';
 
